@@ -1,0 +1,2 @@
+# password
+auto password
